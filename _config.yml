@@ -2,14 +2,14 @@
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
 
-# Site
-title: Hexo
+# Site 设置博客个人资料
+title: blue
 subtitle: ''
-description: ''
+description: '老天第一我第二'
 keywords:
-author: John Doe
-language: en
-timezone: ''
+author: blue
+language: 'zh-CN'
+timezone: 'Asia/shenzhen'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
